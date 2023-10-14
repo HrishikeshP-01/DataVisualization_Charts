@@ -20,3 +20,11 @@
 - Use grouping to simplify visualization
 - Make your data readable in any format – small, large devices, etc.
 - Use contrast in layouts so elements are clearly visible
+
+## Presentation types
+Presentation types can be compared into 5 broad categories:
+- *Comparison* – comparison of values across categories
+- *Distribution* – what is the normal tendency & distribution
+- *Relationship* – how does 1 variable relate to others
+- *Composition* - how do individual parts make up a whole
+- *Trends* – how did values perform over a certain time period
