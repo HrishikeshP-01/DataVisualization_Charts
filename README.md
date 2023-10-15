@@ -28,3 +28,6 @@ Presentation types can be compared into 5 broad categories:
 - *Relationship* – how does 1 variable relate to others
 - *Composition* - how do individual parts make up a whole
 - *Trends* – how did values perform over a certain time period
+
+**Comparison charts**: Bar charts/Column charts, Line charts, Pie charts
+**Composition charts**: Pie charts – have fallen out of favor because it’s hard to view proportions of circular shapes using angles, Stacked bar charts, Area charts, Tree maps
