@@ -41,6 +41,10 @@ Presentation types can be compared into 5 broad categories:
 - If the size of the data is really small, we might choose to use the table itself for visualization
 - Can be used for comparison, composition, relationship analysis
 - Used when there are very few variables in input data, for large sizes tables are overwhelming
+#### Use tables when:
+- You need to drill down into actual, precise values in your data
+- You need to visualize values that involve multiple units of measurements (revenue, count, etc.)
+- You are interested in quantitative information but not distribution or trends
 
 
 
