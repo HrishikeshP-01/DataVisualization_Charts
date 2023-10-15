@@ -35,6 +35,12 @@ Presentation types can be compared into 5 broad categories:
 **Relationship charts**: Scatter charts, Bubble charts
 **Trend charts**: Line charts, Circular area charts
 
+## Tables
+#### Use cases
+- Usually represent source data used for analysis & visualization
+- If the size of the data is really small, we might choose to use the table itself for visualization
+- Can be used for comparison, composition, relationship analysis
+- Used when there are very few variables in input data, for large sizes tables are overwhelming
 
 
 
