@@ -45,6 +45,9 @@ Presentation types can be compared into 5 broad categories:
 - You need to drill down into actual, precise values in your data
 - You need to visualize values that involve multiple units of measurements (revenue, count, etc.)
 - You are interested in quantitative information but not distribution or trends
+#### Do not use tables when:
+- The shape of the data conveys important information
+- You want to show the general form of a relationship between multiple variables
 
 
 
