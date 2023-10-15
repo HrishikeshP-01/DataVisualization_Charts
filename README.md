@@ -49,6 +49,13 @@ Presentation types can be compared into 5 broad categories:
 - The shape of the data conveys important information
 - You want to show the general form of a relationship between multiple variables
 
+## Column charts a.k.a bar charts
+- Used to compare values across categories or changes in a value over a period of time for a single category
+- Users are interested in the actual, precise value for each category
+- Compare heights of the bars for relative measures
+- Assign individual labels to each bar in the chart
+- Associate each quantitative value to each bar instead of expecting users to figure it out from size
+
 
 
 
